@@ -1,0 +1,38 @@
+[
+  {
+    "id": "proj-1780470980183-8058c00f",
+    "name": "new",
+    "ownerId": "105978816195050741548",
+    "members": [
+      {
+        "id": "105978816195050741548",
+        "email": "skrohan0420@gmail.com",
+        "name": "Rohan",
+        "picture": "https://lh3.googleusercontent.com/a/ACg8ocLy9Wc-YdBIoUAl9ILuyS4WVgnTFDTL8uepzHtpi6v2k8LmI71gDw=s96-c",
+        "role": "owner"
+      }
+    ],
+    "collections": [],
+    "environments": [
+      {
+        "id": "env-development",
+        "name": "Default Sandbox Workspace",
+        "variables": [
+          {
+            "key": "placeholder_url",
+            "value": "https://jsonplaceholder.typicode.com",
+            "enabled": true
+          },
+          {
+            "key": "api_key",
+            "value": "sandbox_token_secret_12345",
+            "enabled": true
+          }
+        ]
+      }
+    ],
+    "activeEnvId": "env-development",
+    "createdAt": "2026-06-03T07:16:20.183Z",
+    "updatedAt": "2026-06-03T07:28:34.269Z"
+  }
+]

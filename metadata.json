@@ -1,0 +1,6 @@
+{
+  "name": "Postman Clone",
+  "description": "An interactive API client and request builder featuring local proxy capabilities, history tracking, customizable environments, and an AI endpoint helper for generating request data, code snippets, and assertions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
